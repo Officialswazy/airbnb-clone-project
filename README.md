@@ -116,3 +116,18 @@ Clear navigation, intuitive interfaces, and responsive design are critical for s
 - Built with a **mobile-first** approach to ensure responsiveness.  
 - Styled for **consistency** with the design system (colors, typography, spacing).  
 - Organized into a **component-based architecture** to improve maintainability.  
+## 5. Manual Review
+
+This project will be evaluated primarily through **manual reviews**.  
+To ensure a full score:
+
+- ✅ Complete all tasks on time  
+- 📄 Submit all required files  
+- 🔗 Generate and share your review link  
+- 👥 Request peer reviews  
+
+An auto-check will also verify the presence of core files needed for manual review.
+
+---
+
+© 2025 Airbnb Clone Project
