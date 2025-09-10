@@ -89,3 +89,30 @@ Clear navigation, intuitive interfaces, and responsive design are critical for s
 - Facilitate agile ceremonies (daily standups, sprint planning, retrospectives)  
 - Remove blockers for the team  
 - Ensure smooth collaboration and workflow  
+## 4. UI Component Patterns
+
+### Planned Components
+
+#### Navbar
+- Logo  
+- Search bar  
+- User navigation (login, profile, etc.)  
+- Responsive menu for mobile devices  
+
+#### Property Card
+- Property image  
+- Basic details (price, location, rating)  
+- Favorite/like button  
+- Responsive grid layout  
+
+#### Footer
+- Site links (Home, About, Contact, etc.)  
+- Company information  
+- Social media links  
+- Copyright information  
+
+### Component Design Notes
+- Each component will be **reusable** across multiple pages.  
+- Built with a **mobile-first** approach to ensure responsiveness.  
+- Styled for **consistency** with the design system (colors, typography, spacing).  
+- Organized into a **component-based architecture** to improve maintainability.  
